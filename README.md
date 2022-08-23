@@ -1,2 +1,2 @@
 My first readme
-This readme is being updated
+This is Adeyera's readme
